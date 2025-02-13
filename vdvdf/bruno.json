@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "vdvdf",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
